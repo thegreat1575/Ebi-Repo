@@ -17,7 +17,7 @@ def calculation(x, y, operator):
         print("You cannot divide by zero...")
 
 
-num1 = float(input("Please enter your first number:  ")) 
+num1 = float(input("Please enter your first number:  ")) # takes input from the user
 num2 = float(input("Please enter your second number: "))  
 
 ops = ['+', '-', '/', 'x']
