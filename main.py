@@ -27,6 +27,7 @@ while True:
         print('''Your selected symbol is not valid.
              Please use one of the following symbols:
             +(addition), - (subtraction), / (division), x(multiplication)
+              Goodbye.
           ''')
         continue
     else:
